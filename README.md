@@ -1,13 +1,13 @@
-### YT-DL
+# YT-DL
 ## Installation - 
-# Linux
+### Linux
 `$ sudo apt-get install python3`
 
 `$ pip3 install requirements.txt`
 
 `$ sudo apt-get install python3-tk python3-pil.imagetk`
 
-# Windows
+### Windows
 Install python3 from official website 
 
 `$ pip install requirements.txt`
@@ -15,10 +15,10 @@ Install python3 from official website
 Finally, install FFmpeg (for audio files only) and MP4Box (for mp4 files only) from official website.
 
 ## Run - 
-# Linux 
+### Linux 
 `$ python3 YT-DL.py`
 
-# Windows
+### Windows
 
 double click on the file
 
