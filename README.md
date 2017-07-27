@@ -16,7 +16,7 @@ Finally, install FFmpeg (for audio files only) and MP4Box (for mp4 files only) f
 
 ## Run - 
 ### Linux 
-`$ python3 YT-DL.py`
+`$ python3 YSmart.py`
 
 ### Windows
 
@@ -26,6 +26,6 @@ Or
 
 In the command line
 
-`$ python YT-DL.py`
+`$ python YSmart.py`
 
 I haven't tested on mac but should work fine becuase python.
