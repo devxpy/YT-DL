@@ -10,7 +10,7 @@
 # Windows
 Install python3 from official website 
 
-`pip install requirements.txt`
+`$ pip install requirements.txt`
 
 Finally, install FFmpeg (for audio files only) and MP4Box (for mp4 files only) from official website.
 
